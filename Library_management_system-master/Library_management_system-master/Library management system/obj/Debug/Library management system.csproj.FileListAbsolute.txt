@@ -1,0 +1,7 @@
+C:\Users\user\Downloads\Library_management_system-master\Library_management_system-master\Library management system\bin\Debug\Library management system.exe.config
+C:\Users\user\Downloads\Library_management_system-master\Library_management_system-master\Library management system\bin\Debug\Library management system.exe
+C:\Users\user\Downloads\Library_management_system-master\Library_management_system-master\Library management system\bin\Debug\Library management system.pdb
+C:\Users\user\Downloads\Library_management_system-master\Library_management_system-master\Library management system\obj\Debug\Library management system.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Library_management_system-master\Library_management_system-master\Library management system\obj\Debug\Library management system.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Library_management_system-master\Library_management_system-master\Library management system\obj\Debug\Library management system.exe
+C:\Users\user\Downloads\Library_management_system-master\Library_management_system-master\Library management system\obj\Debug\Library management system.pdb
